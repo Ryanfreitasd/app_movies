@@ -1,0 +1,16 @@
+{
+    "adult": false,
+    "backdropPath": "/path",
+    "genreIds": [1, 2],
+    "id": 1,
+    "originalLanguage": "pt-br",
+    "originalTitle": "Title Original Test",
+    "overview": "overview",
+    "popularity": 123.123,
+    "posterPath": "/poster-path",
+    "releaseDate": "2022-10-22",
+    "title": "Title Test",
+    "video": false,
+    "voteAverage": 1.0,
+    "voteCount": 1
+}
